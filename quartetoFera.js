@@ -10,7 +10,7 @@ let grupo = [
         nome: "Anderson",
         passatempo: "Assistir",
         esporte: "Natacão",
-        membros: ["Andressa", "AndersonN", "AndersonR", "Michel"]
+        membrosDoGrupo: ["Andressa", "AndersonN", "AndersonR", "Michel"]
     },
 
     {
@@ -24,7 +24,7 @@ let grupo = [
         nome: "Nicácio",
         passatempo: "Jogar Online",
         esporte: "Levantamento de Garfo",
-        MembrosDoGrupo: ["Andressa", "AndersonN", "AndersonR", "Michel"]
+        membrosDoGrupo: ["Andressa", "AndersonN", "AndersonR", "Michel"]
     }
 
 ];
