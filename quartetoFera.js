@@ -10,7 +10,7 @@ let grupo = [
         nome: "Anderson",
         passatempo: "Assistir",
         esporte: "Natacão",
-        membros: ["Andressa, AndersonN, AndersonR, Michel"]
+        membros: ["Andressa", "AndersonN", "AndersonR", "Michel"]
     },
 
     {
