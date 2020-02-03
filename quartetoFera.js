@@ -1,9 +1,9 @@
 let grupo = [ 
     {
-    nome: "Andressa",
-    passatempo:"assistir anime",
-    esporte:"caminhada",
-    memmrosDoGrupo: ["Andressa", "AndersonN", "AndersonR", "Michel"]
+        nome: "Andressa",
+        passatempo:"assistir anime",
+        esporte:"caminhada",
+        memmrosDoGrupo: ["Andressa", "AndersonN", "AndersonR", "Michel"]
     },
 
     {
@@ -23,7 +23,7 @@ let grupo = [
     {
         nome: "Nicácio",
         passatempo: "Jogar Online",
-        Esporte: "Levantamento de Garfo",
+        esporte: "Levantamento de Garfo",
         MembrosDoGrupo: ["Andressa", "AndersonN", "AndersonR", "Michel"]
     }
 
